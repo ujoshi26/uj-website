@@ -4,18 +4,18 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "I come with decades of technology experience. Started early with the circuit design for CVT, UPS, SMPS to managing network infrastructures for finance company. Lateron specialized in software development all the way from firmware development to the full-stack micro-service architecture for the fortune 500 companies. My jouney has never eneded but always evolved when it comes to learning new stuff. Last several years, most applications and products that I have designed are full breadth of technology in itself that includes Smart devices with IoT capabilities, Cloud connectivity, Data analytics and AI-ML integration ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Cloud Infrastructure",
+      "Micro-service architecture",
+      "OpenAI LLM chatbots",
+      "Machine Learning"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Computer Vision",
+      "Web Frameworks for UI",
+      "Java based Applications",
+      "Governance and Compliance"
     ]
   },
   "Gallery": [
